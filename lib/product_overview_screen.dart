@@ -67,7 +67,6 @@ class ProductOverviewScreen extends StatelessWidget {
                     Expanded(
                       child: ElevatedButton(
                         onPressed: () {
-                          // Implement the "Buy Now" functionality
                           ScaffoldMessenger.of(context).showSnackBar(
                             SnackBar(
                               content: Text('Buy Now pressed'),

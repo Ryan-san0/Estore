@@ -138,12 +138,3 @@ class ProductListScreen extends StatelessWidget {
     );
   }
 }
-
-// class CartScreen extends StatelessWidget {
-//   @override
-//   Widget build(BuildContext context) {
-//     // Cart screen implementation
-//     // ...
-//     return Container(); // Replace with your cart screen UI
-//   }
-// }
